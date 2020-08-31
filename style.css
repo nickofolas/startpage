@@ -35,7 +35,7 @@ body {
 
 #content input {
     background-color: var(--input-bg);
-    border: none;
+    border: 1px solid transparent;
     color: var(--fg);
     height: 50px;  
     width: 77%;
